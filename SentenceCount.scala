@@ -1,6 +1,3 @@
-/**
-  * Created by Nikhita on 8/05/2016.
-  */
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
